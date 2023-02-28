@@ -2,7 +2,7 @@
     display: inline-flex;
     list-style-type: none;
 }
-.menu li{
+.menu li a{
     margin-right: 15px;
     color: aquamarine;
 }
