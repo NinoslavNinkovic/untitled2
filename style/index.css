@@ -1,7 +1,8 @@
-ul{
+.menu{
     display: inline-flex;
     list-style-type: none;
 }
-li{
-    margin-right: 5px;
+.menu li{
+    margin-right: 15px;
+    color: aquamarine;
 }
